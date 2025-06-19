@@ -1,6 +1,6 @@
-# CYONIQ Neon
+# CYONIQ Website
 
-This project is a modern Next.js website styled with Tailwind CSS. It showcases cyber security and AI consulting services in a vibrant neon theme.
+A clean Next.js project styled with Tailwind CSS. The site presents cybersecurity and AI consulting services in a minimal Apple-inspired layout.
 
 ## Getting Started
 
